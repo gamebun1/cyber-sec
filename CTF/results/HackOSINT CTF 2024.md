@@ -1,6 +1,3 @@
-Command: 
-Co-commanders: 
-League: 
+Command: google контора кхм
+Co-commanders: HydrAGooZze; dahacker
 Place: 24
-Points: 
-Number of solved tasks: 
