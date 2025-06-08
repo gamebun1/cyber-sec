@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF/results/HackOSINT CTF 2024.md",
+                "file": "CTF/results/Diver CTF 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HackOSINT CTF 2024"
+              "title": "Diver CTF 2025"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CTF/results/HackOSINT CTF 2024.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HackOSINT CTF 2024"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -180,15 +180,18 @@
   },
   "active": "0ca5046857341c15",
   "lastOpenFiles": [
-    "CTF/results/KubanCTF Qualifier 2024.md",
-    "CTF/results/Russian CTF Cup 2024 Qualifier.md",
-    "CTF/results/HackOSINT CTF 2024.md",
     "pentest/results/suek.ru.md",
-    "templates/ctf-result.md",
+    "CTF/results/Diver CTF 2025.md",
+    "cache/Pasted image 20250608163639.png",
+    "CTF/results/Tinkoff CTF 2024.md",
     "CTF/results/T-CTF 2025.md",
+    "CTF/results/Russian CTF Cup 2024 Qualifier.md",
+    "CTF/results/KubanCTF Qualifier 2024.md",
+    "CTF/results/HackOSINT CTF 2024.md",
+    "Untitled.md",
+    "templates/ctf-result.md",
     "pentest/results",
     "pentest",
-    "CTF/results/Tinkoff CTF 2024.md",
     "templates",
     "cache",
     "cache/Pasted image 20250519015836.png",
