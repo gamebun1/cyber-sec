@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF/writeup/Diver CTF 2025 writeup.md",
+                "file": "CTF/results/T-CTF 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diver CTF 2025 writeup"
+              "title": "T-CTF 2025"
             }
           }
         ]
@@ -180,6 +180,12 @@
   },
   "active": "0ca5046857341c15",
   "lastOpenFiles": [
+    "CTF/results/Tinkoff CTF 2024.md",
+    "CTF/writeup/Diver CTF 2025 writeup.md",
+    "tasks platform/rootme/writeup/JWT - Introduction.md",
+    "tasks platform/rootme/writeup",
+    "tasks platform/rootme",
+    "tasks platform",
     "cache/ship.jpg",
     "cache/Pasted image 20250607230221.png",
     "cache/Pasted image 20250607151250.png",
@@ -190,12 +196,9 @@
     "cache/Pasted image 20250607130143.png",
     "cache/hidden_service.jpg",
     "cache/flight_from.png",
-    "cache/Pasted image 20250608164409.png",
     "CTF/results/Diver CTF 2025.md",
-    "CTF/writeup/Diver CTF 2025 writeup.md",
     "CTF/writeup",
     "pentest/results/suek.ru.md",
-    "CTF/results/Tinkoff CTF 2024.md",
     "CTF/results/T-CTF 2025.md",
     "CTF/results/Russian CTF Cup 2024 Qualifier.md",
     "CTF/results/KubanCTF Qualifier 2024.md",
