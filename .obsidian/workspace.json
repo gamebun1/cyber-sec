@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF/results/HackOSINT CTF 2024.md",
+                "file": "Articles/Анатомия безопасности XMPP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HackOSINT CTF 2024"
+              "title": "Анатомия безопасности XMPP"
             }
           }
         ]
@@ -180,9 +180,12 @@
   },
   "active": "0ca5046857341c15",
   "lastOpenFiles": [
-    "CTF/results/Tinkoff CTF 2024.md",
+    "cache/PLAIN+TLS.png",
+    "cache/XMPP_scheme.png",
+    "cache/Pasted image 20250619203747.png",
     "CTF/results/HackOSINT CTF 2024.md",
-    "Articles/XMPP и с чем его едят?.md",
+    "CTF/results/Tinkoff CTF 2024.md",
+    "Articles/Анатомия безопасности XMPP.md",
     "Articles",
     "CTF/results/T-CTF 2025.md",
     "CTF/writeup/Diver CTF 2025 writeup.md",
@@ -198,8 +201,6 @@
     "cache/Pasted image 20250607132620.png",
     "cache/Pasted image 20250607130454.png",
     "cache/Pasted image 20250607130143.png",
-    "cache/hidden_service.jpg",
-    "cache/flight_from.png",
     "CTF/results/Diver CTF 2025.md",
     "CTF/writeup",
     "pentest/results/suek.ru.md",

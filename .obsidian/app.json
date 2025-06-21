@@ -1,5 +1,18 @@
 {
   "showUnsupportedFiles": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "cache"
+  "attachmentFolderPath": "cache",
+  "spellcheckDictionary": [
+    "аунтефикации",
+    "предвычисленным",
+    "веб-ориентированный",
+    "бэкенд",
+    "редиректу",
+    "аунтефикацией",
+    "цтф",
+    "ресерч",
+    "аунтефикация",
+    "аунтефикацию",
+    "хеш-функций"
+  ]
 }
