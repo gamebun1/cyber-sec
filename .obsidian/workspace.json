@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CTF/writeup/AlfaCTF 2025.md",
+                "file": "CTF/writeup/VKACTF Kids 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AlfaCTF 2025"
+              "title": "VKACTF Kids 2025"
             }
           }
         ]
@@ -181,21 +181,26 @@
   },
   "active": "0ca5046857341c15",
   "lastOpenFiles": [
+    "cache/Pasted image 20251122200138.png",
+    "cache/Pasted image 20251122200054.png",
+    "cache/Pasted image 20251122200024.png",
+    "cache/Pasted image 20251122184139.png",
+    "cache/Pasted image 20251122184122.png",
+    "cache/Pasted image 20251122184051.png",
+    "cache/Pasted image 20251122183928.png",
+    "cache/Pasted image 20251122183717.png",
+    "CTF/results/VKACTF Kids 2025.md",
+    "CTF/writeup/VKACTF Kids 2025.md",
     "CTF/writeup/Diver CTF 2025 writeup.md",
-    "CTF/results/AlfaCTF 2025.md",
     "CTF/writeup/AlfaCTF 2025.md",
+    "CTF/results/AlfaCTF 2025.md",
+    "CTF/results-merged.md",
     "cache/Pasted image 20250913151445.png",
     "cache/Pasted image 20250913151509.png",
     "cache/Pasted image 20250913151406.png",
-    "cache/Pasted image 20250913151324.png",
-    "cache/Pasted image 20250913151110.png",
-    "cache/Pasted image 20250913150845.png",
     "CTF/results/ImaginaryCTF 2025.md",
     "CTF/results/KubanCTF Qualifier 2025.md",
     "Articles/Анатомия безопасности XMPP.md",
-    "cache/PLAIN+TLS.png",
-    "cache/XMPP_scheme.png",
-    "cache/Pasted image 20250619203747.png",
     "CTF/results/HackOSINT CTF 2024.md",
     "CTF/results/Tinkoff CTF 2024.md",
     "Articles",
@@ -204,7 +209,6 @@
     "tasks platform/rootme/writeup",
     "tasks platform/rootme",
     "tasks platform",
-    "cache/ship.jpg",
     "CTF/results/Diver CTF 2025.md",
     "CTF/writeup",
     "pentest/results/suek.ru.md",
