@@ -11,10 +11,14 @@
             "id": "ac7412b87a47b46d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CTF/results/HackOSINT CTF 2024.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "HackOSINT CTF 2024"
             }
           }
         ]
@@ -175,8 +179,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f1bf2d4419123e8",
+  "active": "d82b567a097921ad",
   "lastOpenFiles": [
+    "CTF/results/Untitled.md",
+    "CTF/results/HackOSINT CTF 2024.md",
+    "CTF/results/AlfaCTF 2025.md",
+    "CTF/results/Diver CTF 2025.md",
+    "CTF/results/Russian CTF Cup 2024 Qualifier.md",
+    "CTF/results/T-CTF 2025.md",
+    "CTF/results/Tinkoff CTF 2024.md",
+    "CTF/results/VKACTF Kids 2025.md",
+    "CTF/writeup/AlfaCTF 2025.md",
+    "CTF/writeup/Diver CTF 2025 writeup.md",
+    "CTF/writeup/VKACTF Kids 2025.md",
+    "templates/ctf-result.md",
+    "README.md",
+    "Untitled.md",
     "Articles/Анатомия безопасности XMPP.md",
     "CTF/results/KubanCTF Qualifier 2025.md",
     "cache/flight_from.png",
@@ -184,8 +202,6 @@
     "pentest/results/suek.ru.md",
     "CTF/results/RegionsCup 2025.md",
     "CTF/results/Innopolis Open 25-26.md",
-    "CTF/results/AlfaCTF 2025.md",
-    "CTF/writeup/VKACTF Kids 2025.md",
     "cache/Pasted image 20251122200138.png",
     "cache/Pasted image 20251122200054.png",
     "cache/Pasted image 20251122200024.png",
@@ -194,31 +210,20 @@
     "cache/Pasted image 20251122184051.png",
     "cache/Pasted image 20251122183928.png",
     "cache/Pasted image 20251122183717.png",
-    "CTF/results/VKACTF Kids 2025.md",
-    "CTF/writeup/Diver CTF 2025 writeup.md",
-    "CTF/writeup/AlfaCTF 2025.md",
     "CTF/results-merged.md",
     "cache/Pasted image 20250913151445.png",
     "CTF/results/ImaginaryCTF 2025.md",
-    "CTF/results/HackOSINT CTF 2024.md",
-    "CTF/results/Tinkoff CTF 2024.md",
     "Articles",
-    "CTF/results/T-CTF 2025.md",
     "tasks platform/rootme/writeup/JWT - Introduction.md",
     "tasks platform/rootme/writeup",
     "tasks platform/rootme",
     "tasks platform",
-    "CTF/results/Diver CTF 2025.md",
     "CTF/writeup",
-    "CTF/results/Russian CTF Cup 2024 Qualifier.md",
     "CTF/results/KubanCTF Qualifier 2024.md",
-    "Untitled.md",
-    "templates/ctf-result.md",
     "pentest/results",
     "pentest",
     "templates",
     "cache",
-    "CTF/results",
-    "README.md"
+    "CTF/results"
   ]
 }
