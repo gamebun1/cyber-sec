@@ -99,39 +99,6 @@
             }
           },
           {
-            "id": "d49a7705c4e806ae",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "pentest/results/suek.ru.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for suek.ru"
-            }
-          },
-          {
-            "id": "d4265badbd53ebb0",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "pentest/results/suek.ru.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from suek.ru"
-            }
-          },
-          {
             "id": "bc5463ec0e54a548",
             "type": "leaf",
             "state": {
@@ -199,7 +166,6 @@
     "CTF/results/KubanCTF Qualifier 2025.md",
     "cache/flight_from.png",
     "CTF/About this folder.md",
-    "pentest/results/suek.ru.md",
     "CTF/results/RegionsCup 2025.md",
     "CTF/results/Innopolis Open 25-26.md",
     "cache/Pasted image 20251122200138.png",
