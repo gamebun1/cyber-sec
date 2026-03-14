@@ -11,14 +11,14 @@
             "id": "ac7412b87a47b46d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "CTF/results/HackOSINT CTF 2024.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "HackOSINT CTF 2024"
+              "icon": "diff",
+              "title": "Diff: .gitignore"
             }
           }
         ]
@@ -127,6 +127,37 @@
               "icon": "lucide-list",
               "title": "Outline of Untitled"
             }
+          },
+          {
+            "id": "d1a65c3c728ce95a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "20c13d1bab93f2a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
           }
         ]
       }
@@ -146,10 +177,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f1bf2d4419123e8",
+  "active": "ac7412b87a47b46d",
   "lastOpenFiles": [
-    "CTF/results/Untitled.md",
+    "Articles/Анатомия безопасности XMPP.md",
     "CTF/results/HackOSINT CTF 2024.md",
+    "CTF/results/Untitled.md",
     "CTF/results/AlfaCTF 2025.md",
     "CTF/results/Diver CTF 2025.md",
     "CTF/results/Russian CTF Cup 2024 Qualifier.md",
@@ -162,7 +194,6 @@
     "templates/ctf-result.md",
     "README.md",
     "Untitled.md",
-    "Articles/Анатомия безопасности XMPP.md",
     "CTF/results/KubanCTF Qualifier 2025.md",
     "cache/flight_from.png",
     "CTF/About this folder.md",
